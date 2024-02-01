@@ -1,0 +1,13 @@
+pyarmor
+pycryptodome
+openvino
+scipy
+tqdm
+pyyaml
+yapf
+opencv-python
+numpy
+onnxruntime
+Pillow
+httpcore==0.15.0
+httpx==0.24.1
